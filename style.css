@@ -1,6 +1,6 @@
 h1{
 color:#272727;
-font-size: 5.79rem;
+font-size: 100px;
 font-weight: 100;
 margin: 50px auto;
 text-align: center;
@@ -23,6 +23,28 @@ font-size: 7px;
 
 .p2{
 text-align: center;
-line-height: 300px;
-color: rgb(95, 95, 95)
+color: rgb(95, 95, 95);
+font-size: 13px;
+}
+
+.p3{
+text-align: center;
+color: rgb(63, 63, 63);
+font-size: 15;
+}
+
+.p4{
+    text-align: center;
+    color: rgb(63, 63, 63);
+    font-size: 15;
+}
+
+.png1{
+text-align: center;
+}
+
+.p5{
+    text-align: center;
+    color: #888;
+    font-size: 7px;
 }
