@@ -1,5 +1,5 @@
 h1{
-color: #272727
+color:#272727;
 font-size: 5.79rem;
 font-weight: 100;
 margin: 50px auto;
@@ -7,17 +7,17 @@ text-align: center;
 }
 
 h4{
-color: rgb(114, 114, 114);
+color:rgb(114, 114, 114);
 text-align: center;
 }
 
 .box{
- text-align: center;
+text-align: center;
 }
 
 .p1{
 text-align: center;
-color: # 888
+color: #888;
 font-size: 7px;
 }
 
